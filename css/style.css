@@ -1,3 +1,22 @@
 html{
     scroll-padding-top: 60px;
 }
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.categories img{
+    width : 100px;
+}
+.panda-buy-now-btn{
+    color: #ffffff;
+    border-radius: 8px;
+    padding : 9px 25px;
+    border : none;
+    width : 150px;
+    background-image : linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+}
+.panda-margin{
+    margin-top: 45px;
+}
+
+
